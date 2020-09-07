@@ -1,0 +1,1 @@
+# app-mobile-react-native-qqtarolando
